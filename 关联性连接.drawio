@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T08:20:50.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y0q5078lFKphZIXUSzH1" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T08:27:39.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DbUjDc_FuhyK6MyNQyLK" version="21.5.0" type="github">
   <diagram name="第 1 页" id="rXIVJB2eZinE8eT-0o9J">
     <mxGraphModel dx="2062" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,6 +143,27 @@
             <mxPoint x="-140" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-135" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-Sb64uljPnoOOoUgbEI-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;语音合成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Sb64uljPnoOOoUgbEI-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-Sb64uljPnoOOoUgbEI-29" target="u-Sb64uljPnoOOoUgbEI-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="-120" as="sourcePoint" />
+            <mxPoint x="880" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-Sb64uljPnoOOoUgbEI-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;扬声器调用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u-Sb64uljPnoOOoUgbEI-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="u-Sb64uljPnoOOoUgbEI-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="-150" as="sourcePoint" />
+            <mxPoint x="1040" y="-200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="-180" />
             </Array>
           </mxGeometry>
         </mxCell>
